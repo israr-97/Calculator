@@ -1,0 +1,33 @@
+*{
+    
+    background-color:yellow;
+}
+
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+}
+
+button{
+    font-size: 35px;
+    background: lightgreen;
+    height: 60px;
+    width: 103px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+#screen{
+
+    border: 3px solid black;
+    border-radius: 15px;
+}
